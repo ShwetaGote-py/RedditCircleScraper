@@ -1,7 +1,3 @@
----
-config:
-  layout: fixed
----
 flowchart TD
  subgraph subGraph0["Data Retrieval & Processing"]
         B{"Microsoft Graph API"}
